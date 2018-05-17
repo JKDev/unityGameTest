@@ -1,1 +1,5 @@
-//Game json File
+<GameApp>
+  <versoin>1.0.0</version>
+  <gamename>CheckApp Launcher</gamename>
+  <email>speedTest@mail.com</email>
+</GameApp>
